@@ -60,5 +60,3 @@ Project Structure
   Stores the generated observation sequences.
 
 --- 
-
-This readme provides a clear and original summary of the project's structure and components.
